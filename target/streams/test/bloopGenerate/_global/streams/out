@@ -1,0 +1,4 @@
+[debug] [lab1_scala-test] Classpath dependencies List()
+[debug] [lab1_scala-test] Dependencies from configurations List(lab1_scala)
+[debug] Bloop wrote the configuration of project 'lab1_scala-test' to 'C:\files\lab1_scala\.bloop\lab1_scala-test.json'
+[success] Generated .bloop\lab1_scala-test.json

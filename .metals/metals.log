@@ -1,0 +1,236 @@
+2024.11.12 03:54:48 INFO  Started: Metals version 1.4.0 in folders 'C:\files\lab1_scala' for client Visual Studio Code 1.95.2.
+2024.11.12 03:54:49 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.12 03:54:51 INFO  running 'C:\Program Files\Java\jdk-22\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\mrfar\AppData\Local\Temp\metals5092111522536675376\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.12 03:54:53 INFO  [info] welcome to sbt 1.10.5 (Oracle Corporation Java 22.0.2)
+2024.11.12 03:54:55 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.12 03:54:55 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.12 03:54:56 INFO  [info] loading settings for project lab1_scala-build-build from metals.sbt ...
+2024.11.12 03:54:56 INFO  [info] loading project definition from C:\files\lab1_scala\project\project
+2024.11.12 03:54:59 INFO  [info] loading settings for project lab1_scala-build from metals.sbt ...
+2024.11.12 03:54:59 INFO  [info] loading project definition from C:\files\lab1_scala\project
+2024.11.12 03:55:03 INFO  [success] Generated .bloop\lab1_scala-build.json
+2024.11.12 03:55:03 INFO  [success] Total time: 3 s, completed 12 нояб. 2024 г., 03:55:03
+2024.11.12 03:55:04 INFO  [info] loading settings for project lab1_scala from build.sbt ...
+2024.11.12 03:55:04 INFO  [info] set current project to hello-world (in build file:/C:/files/lab1_scala/)
+2024.11.12 03:55:04 INFO  [success] Generated .bloop\lab1_scala-test.json
+2024.11.12 03:55:04 INFO  [success] Generated .bloop\lab1_scala.json
+2024.11.12 03:55:04 INFO  [success] Total time: 0 s, completed 12 нояб. 2024 г., 03:55:05
+2024.11.12 03:55:05 INFO  time: ran 'sbt bloopInstall' in 14s
+2024.11.12 03:55:05 INFO  Attempting to connect to the build server...
+2024.11.12 03:55:05 INFO  Found a Bloop server running
+2024.11.12 03:55:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.12 03:55:06 INFO  Attempting to connect to the build server...
+2024.11.12 03:55:06 INFO  Found a Bloop server running
+2024.11.12 03:55:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\project\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.12 03:55:06 INFO  time: Connected to build server in 1.14s
+2024.11.12 03:55:06 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.12 03:55:07 INFO  running doctor check
+2024.11.12 03:55:07 INFO  java targets: lab1_scala, lab1_scala-build, lab1_scala-test
+2024.11.12 03:55:10 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.12 03:55:20 INFO  time: indexed workspace in 13s
+2024.11.12 03:55:20 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 03:55:22 INFO  time: compiled lab1_scala in 1.19s
+2024.11.12 03:55:33 INFO  time: code lens generation in 3.33s
+2024.11.12 03:55:36 INFO  [0m[31m[E][0m Caught java.lang.InterruptedException
+2024.11.12 03:55:36 INFO  [0m[31m[E][0m Caught java.lang.InterruptedException
+2024.11.12 03:55:36 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.12 03:55:36 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.11.12 03:55:36 INFO  No running Bloop server found, starting one.
+2024.11.12 03:55:36 INFO  No running Bloop server found, starting one.
+2024.11.12 03:55:38 INFO  Starting compilation server
+2024.11.12 03:55:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\project\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.12 03:55:42 ERROR Running process 'kill -9 19212' failed
+java.io.IOException: Cannot run program "kill" (in directory "C:\Users\mrfar\AppData\Local\ScalaCli\data\bloop"): CreateProcess error=2, Не удается найти указанный файл
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:48)
+	at scala.meta.internal.builds.ShellRunner$.runSync(ShellRunner.scala:169)
+	at scala.meta.internal.metals.BloopServers.$anonfun$checkOldBloopRunning$4(BloopServers.scala:265)
+	at scala.meta.internal.metals.BloopServers.$anonfun$checkOldBloopRunning$4$adapted(BloopServers.scala:262)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+Caused by: java.io.IOException: CreateProcess error=2, Не удается найти указанный файл
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:500)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:48)
+	at scala.meta.internal.builds.ShellRunner$.runSync(ShellRunner.scala:169)
+	at scala.meta.internal.metals.BloopServers.$anonfun$checkOldBloopRunning$4(BloopServers.scala:265)
+	at scala.meta.internal.metals.BloopServers.$anonfun$checkOldBloopRunning$4$adapted(BloopServers.scala:262)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2024.11.12 03:55:43 INFO  Starting compilation server
+2024.11.12 03:55:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.12 03:55:43 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.12 03:55:44 INFO  running doctor check
+2024.11.12 03:55:44 INFO  java targets: lab1_scala, lab1_scala-build, lab1_scala-test
+2024.11.12 03:55:48 INFO  time: indexed workspace in 4.1s
+2024.11.12 03:56:15 INFO  running 'C:\Program Files\Java\jdk-22\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\mrfar\AppData\Local\Temp\metals4150872055143072903\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.12 03:56:17 INFO  [info] welcome to sbt 1.10.5 (Oracle Corporation Java 22.0.2)
+2024.11.12 03:56:17 INFO  [info] loading settings for project lab1_scala-build-build from metals.sbt ...
+2024.11.12 03:56:19 INFO  [info] loading project definition from C:\files\lab1_scala\project\project
+2024.11.12 03:56:19 INFO  [info] loading settings for project lab1_scala-build from metals.sbt ...
+2024.11.12 03:56:20 INFO  [info] loading project definition from C:\files\lab1_scala\project
+2024.11.12 03:56:22 INFO  [success] Generated .bloop\lab1_scala-build.json
+2024.11.12 03:56:22 INFO  [success] Total time: 2 s, completed 12 нояб. 2024 г., 03:56:22
+2024.11.12 03:56:24 INFO  [info] loading settings for project lab1_scala from build.sbt ...
+2024.11.12 03:56:24 INFO  [info] set current project to hello-world (in build file:/C:/files/lab1_scala/)
+2024.11.12 03:56:24 INFO  [success] Generated .bloop\lab1_scala.json
+2024.11.12 03:56:24 INFO  [success] Generated .bloop\lab1_scala-test.json
+2024.11.12 03:56:24 INFO  [success] Total time: 1 s, completed 12 нояб. 2024 г., 03:56:25
+2024.11.12 03:56:25 INFO  time: ran 'sbt bloopInstall' in 10s
+2024.11.12 03:56:25 INFO  Disconnecting from Bloop session...
+2024.11.12 03:56:25 INFO  Shut down connection with build server.
+2024.11.12 03:56:25 INFO  Shut down connection with build server.
+2024.11.12 03:56:25 INFO  Attempting to connect to the build server...
+2024.11.12 03:56:25 INFO  Found a Bloop server running
+2024.11.12 03:56:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.12 03:56:26 INFO  Attempting to connect to the build server...
+2024.11.12 03:56:26 INFO  Found a Bloop server running
+2024.11.12 03:56:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\project\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.12 03:56:26 INFO  time: Connected to build server in 1.04s
+2024.11.12 03:56:26 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.12 03:56:27 INFO  running doctor check
+2024.11.12 03:56:27 INFO  java targets: lab1_scala, lab1_scala-build, lab1_scala-test
+2024.11.12 03:56:30 INFO  time: indexed workspace in 3.59s
+2024.11.12 03:56:33 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 03:56:37 INFO  time: compiled lab1_scala in 3.95s
+2024.11.12 03:58:22 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 03:58:22 INFO  time: compiled lab1_scala in 0.7s
+2024.11.12 03:58:52 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 03:58:52 INFO  time: compiled lab1_scala in 0.62s
+2024.11.12 03:59:52 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 03:59:52 INFO  time: compiled lab1_scala in 0.56s
+нояб. 12, 2024 4:02:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 762
+нояб. 12, 2024 4:03:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 812
+2024.11.12 04:03:36 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:03:36 INFO  time: compiled lab1_scala in 0.85s
+2024.11.12 04:04:53 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:04:53 INFO  time: compiled lab1_scala in 0.66s
+2024.11.12 04:05:42 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:05:42 INFO  time: compiled lab1_scala in 0.52s
+нояб. 12, 2024 4:15:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1441
+2024.11.12 04:16:47 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:16:47 INFO  time: compiled lab1_scala in 0.59s
+2024.11.12 04:17:30 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:17:30 INFO  time: compiled lab1_scala in 0.97s
+2024.11.12 04:17:45 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:17:45 INFO  time: compiled lab1_scala in 0.59s
+2024.11.12 04:18:37 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:18:37 INFO  time: compiled lab1_scala in 0.47s
+2024.11.12 04:22:30 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:22:30 INFO  time: compiled lab1_scala in 0.71s
+2024.11.12 04:27:00 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:27:00 INFO  time: compiled lab1_scala in 0.6s
+2024.11.12 04:28:45 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:28:45 INFO  time: compiled lab1_scala in 0.66s
+2024.11.12 04:31:37 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:31:37 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 04:31:37 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 04:31:37 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 04:31:37 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 04:31:38 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 04:31:38 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 04:31:37 INFO  time: compiled lab1_scala in 0.54s
+нояб. 12, 2024 4:31:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3222
+нояб. 12, 2024 4:32:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3362
+2024.11.12 04:32:45 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:32:45 INFO  time: compiled lab1_scala in 0.57s
+2024.11.12 04:33:03 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:33:03 INFO  time: compiled lab1_scala in 0.41s
+2024.11.12 04:33:13 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:33:13 INFO  time: compiled lab1_scala in 0.39s
+2024.11.12 04:35:59 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:35:59 INFO  time: compiled lab1_scala in 0.41s
+2024.11.12 04:36:07 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:36:07 INFO  time: compiled lab1_scala in 0.43s
+2024.11.12 04:37:19 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:37:19 INFO  time: compiled lab1_scala in 0.47s
+2024.11.12 04:37:57 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:37:57 INFO  time: compiled lab1_scala in 0.39s
+нояб. 12, 2024 4:38:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4713
+нояб. 12, 2024 4:38:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4759
+2024.11.12 04:39:19 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:39:19 INFO  time: compiled lab1_scala in 0.4s
+2024.11.12 04:40:20 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:40:20 INFO  time: compiled lab1_scala in 0.2s
+2024.11.12 04:40:24 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:40:24 INFO  time: compiled lab1_scala in 0.36s
+2024.11.12 04:40:39 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:40:39 INFO  time: compiled lab1_scala in 0.33s
+2024.11.12 04:40:56 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:40:56 INFO  time: compiled lab1_scala in 0.15s
+2024.11.12 04:40:56 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 04:41:00 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 04:41:01 INFO  time: compiled lab1_scala in 5ms
+2024.11.12 04:42:52 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:42:52 INFO  time: compiled lab1_scala in 0.44s
+2024.11.12 04:43:11 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:43:11 INFO  time: compiled lab1_scala in 0.32s
+2024.11.12 04:47:53 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:47:53 INFO  time: compiled lab1_scala in 0.36s
+2024.11.12 04:57:04 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:57:04 INFO  time: compiled lab1_scala in 0.45s
+2024.11.12 04:57:42 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:57:42 INFO  time: compiled lab1_scala in 0.4s
+2024.11.12 04:58:08 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:58:08 INFO  time: compiled lab1_scala in 0.39s
+2024.11.12 04:59:44 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:59:44 INFO  time: compiled lab1_scala in 0.45s
+2024.11.12 04:59:56 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 04:59:56 INFO  time: compiled lab1_scala in 0.33s
+нояб. 12, 2024 5:00:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6517
+нояб. 12, 2024 5:01:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6754
+2024.11.12 05:02:00 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:02:00 INFO  time: compiled lab1_scala in 0.4s
+2024.11.12 05:04:26 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:04:26 INFO  time: compiled lab1_scala in 0.39s
+2024.11.12 05:04:38 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:04:38 INFO  time: compiled lab1_scala in 0.54s
+2024.11.12 05:05:04 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:05:04 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 05:05:04 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 05:05:04 INFO  time: compiled lab1_scala in 0.61s
+2024.11.12 05:05:04 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 05:05:10 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\Main.scala
+2024.11.12 05:05:13 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:05:13 INFO  time: compiled lab1_scala in 0.33s
+2024.11.12 05:05:16 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:05:16 INFO  time: compiled lab1_scala in 0.17s
+2024.11.12 05:05:20 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:05:20 INFO  time: compiled lab1_scala in 0.31s
+2024.11.12 05:05:37 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:05:37 INFO  time: compiled lab1_scala in 0.35s
+2024.11.12 05:06:18 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:06:18 INFO  time: compiled lab1_scala in 0.35s
+2024.11.12 05:06:29 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:06:29 INFO  time: compiled lab1_scala in 0.29s
+2024.11.12 05:14:28 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:14:28 INFO  time: compiled lab1_scala in 0.34s
+2024.11.12 05:16:26 INFO  compiling lab1_scala (1 scala source)
+2024.11.12 05:16:26 INFO  time: compiled lab1_scala in 0.36s
+2024.11.12 05:17:26 INFO  Shutting down server
+2024.11.12 05:17:26 INFO  shutting down Metals
+2024.11.12 05:17:26 INFO  Shut down connection with build server.
+2024.11.12 05:17:26 INFO  Shut down connection with build server.
+2024.11.12 05:17:26 INFO  Exiting server
