@@ -278,3 +278,348 @@ INFO: Unsupported notification method: $/setTrace
 2024.11.12 08:18:55 INFO  Shut down connection with build server.
 2024.11.12 08:18:55 INFO  Shut down connection with build server.
 2024.11.12 08:18:55 INFO  Exiting server
+2024.12.27 04:00:57 INFO  Started: Metals version 1.4.2 in folders 'C:\files\lab1_scala' for client Visual Studio Code 1.96.2.
+2024.12.27 04:00:59 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 27, 2024 4:01:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.27 04:01:01 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:01 INFO  Attempting to connect to the build server...
+2024.12.27 04:01:01 INFO  No running Bloop server found, starting one.
+2024.12.27 04:01:01 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:01 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:01 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:02 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:06 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:07 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:07 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:07 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:07 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:08 INFO  Starting compilation server
+2024.12.27 04:01:07 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:09 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 04:01:12 INFO  Attempting to connect to the build server...
+2024.12.27 04:01:12 INFO  Found a Bloop server running
+2024.12.27 04:01:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\project\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 04:01:14 WARN  no build target for: C:\files\lab1_scala\src\main\scala\Main.scala
+2024.12.27 04:01:14 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:14 INFO  no build target found for C:\files\lab1_scala\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 04:01:15 INFO  time: Connected to build server in 14s
+2024.12.27 04:01:15 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.27 04:01:16 INFO  time: Imported build in 0.2s
+2024.12.27 04:01:16 INFO  running doctor check
+2024.12.27 04:01:16 INFO  java targets: lab1_scala, lab1_scala-build, lab1_scala-test
+2024.12.27 04:01:27 INFO  time: indexed workspace in 11s
+2024.12.27 04:04:51 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:51 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:51 WARN  no build target for: C:\files\lab1_scala\lab2\task1.scala
+2024.12.27 04:04:51 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:51 WARN  Could not find semantic tokens for: file:///C:/files/lab1_scala/lab2/task1.scala
+2024.12.27 04:04:53 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:53 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:54 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:54 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:53 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:57 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:57 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:58 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:59 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:04:59 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:01 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:01 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:03 WARN  no build target for: C:\files\lab1_scala\lab2\task1.scala
+2024.12.27 04:05:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:14 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:16 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:18 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:18 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:19 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:19 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:20 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:21 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:21 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:22 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:22 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:22 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:22 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:22 WARN  no build target for: C:\files\lab1_scala\lab2\task1.scala
+2024.12.27 04:05:22 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:23 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:25 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:25 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:27 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:27 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:27 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:27 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:29 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:29 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:29 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:32 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:32 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:32 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:33 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:33 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:34 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:34 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:34 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:34 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:34 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:34 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:35 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:35 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:35 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:37 WARN  no build target for: C:\files\lab1_scala\lab2\task1.scala
+2024.12.27 04:05:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:39 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:40 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:40 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:41 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:41 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:52 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:52 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:54 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:54 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:57 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:57 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:58 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:05:58 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:00 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:00 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:06 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:07 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:07 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:12 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:12 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:13 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:15 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:27 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:27 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:27 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:28 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:28 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:28 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:28 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:28 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:28 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:29 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:29 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:29 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:29 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:30 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:30 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:30 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:31 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:30 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:30 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:33 WARN  no build target for: C:\files\lab1_scala\lab2\task1.scala
+2024.12.27 04:06:33 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:37 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:38 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:38 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:43 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:45 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:45 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:46 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:46 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:46 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:48 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:48 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:48 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:49 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:49 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:50 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:50 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:50 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:51 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:51 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:53 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:06:53 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:00 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:11 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:12 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:12 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:16 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:17 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:17 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:17 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:17 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:18 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:18 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:19 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:19 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:19 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:19 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:20 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:21 WARN  no build target for: C:\files\lab1_scala\lab2\task1.scala
+2024.12.27 04:07:21 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:22 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:23 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:23 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:24 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:24 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:25 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:25 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:27 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:29 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:37 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:07:37 INFO  no build target found for c:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:42 INFO  time: compiled lab1_scala in 4.54s
+2024.12.27 04:07:42 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:07:43 INFO  time: compiled lab1_scala in 1.63s
+2024.12.27 04:07:49 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:07:49 INFO  time: compiled lab1_scala in 0.69s
+2024.12.27 04:07:56 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:07:56 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:56 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:56 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:56 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:56 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:57 INFO  time: compiled lab1_scala in 1.02s
+2024.12.27 04:07:57 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:07:57 WARN  no build target for: C:\files\lab1_scala\lab2\task1.scala
+2024.12.27 04:07:57 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:08:03 WARN  no build target for: C:\files\lab1_scala\lab2\task1.scala
+2024.12.27 04:08:03 INFO  no build target found for C:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:08:34 INFO  no build target found for c:\files\lab1_scala\lab2\task1.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 04:08:34 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:08:34 INFO  time: compiled lab1_scala in 0.77s
+дек. 27, 2024 4:10:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 874
+2024.12.27 04:10:49 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:10:51 INFO  time: compiled lab1_scala in 2.29s
+2024.12.27 04:22:18 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:22:20 INFO  time: compiled lab1_scala in 2.07s
+дек. 27, 2024 4:22:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1124
+2024.12.27 04:22:36 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:22:36 INFO  time: compiled lab1_scala in 0.53s
+2024.12.27 04:22:49 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:22:49 INFO  time: compiled lab1_scala in 0.38s
+2024.12.27 04:23:02 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:23:02 INFO  time: compiled lab1_scala in 0.87s
+2024.12.27 04:26:51 INFO  compiling lab1_scala (1 scala source)
+дек. 27, 2024 4:26:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1380
+2024.12.27 04:26:53 INFO  time: compiled lab1_scala in 1.86s
+2024.12.27 04:27:01 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:27:01 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\task1.scala
+2024.12.27 04:27:01 WARN  Could not load snapshot text for C:\files\lab1_scala\src\main\scala\task1.scala
+2024.12.27 04:27:02 INFO  time: compiled lab1_scala in 1.37s
+2024.12.27 04:28:01 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:28:02 INFO  time: compiled lab1_scala in 1.03s
+2024.12.27 04:28:15 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:28:15 INFO  time: compiled lab1_scala in 0.56s
+2024.12.27 04:29:20 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:29:20 INFO  time: compiled lab1_scala in 0.66s
+дек. 27, 2024 4:36:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1766
+2024.12.27 04:36:59 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:37:01 INFO  time: compiled lab1_scala in 1.63s
+2024.12.27 04:38:33 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:38:33 INFO  time: compiled lab1_scala in 0.77s
+2024.12.27 04:41:30 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:41:32 INFO  time: compiled lab1_scala in 1.63s
+2024.12.27 04:41:59 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:41:59 INFO  time: compiled lab1_scala in 0.68s
+2024.12.27 04:43:05 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:43:05 INFO  time: compiled lab1_scala in 0.29s
+2024.12.27 04:43:12 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:43:12 INFO  time: compiled lab1_scala in 0.9s
+2024.12.27 04:43:20 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:43:20 INFO  time: compiled lab1_scala in 0.32s
+2024.12.27 04:43:26 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:43:26 INFO  time: compiled lab1_scala in 0.95s
+2024.12.27 04:44:47 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:44:47 INFO  time: compiled lab1_scala in 0.35s
+2024.12.27 04:44:53 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:44:53 INFO  time: compiled lab1_scala in 0.24s
+2024.12.27 04:45:03 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:45:03 INFO  time: compiled lab1_scala in 0.23s
+2024.12.27 04:45:24 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:45:24 INFO  time: compiled lab1_scala in 0.22s
+дек. 27, 2024 4:46:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2662
+2024.12.27 04:47:35 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:47:35 INFO  time: compiled lab1_scala in 0.24s
+дек. 27, 2024 4:47:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2737
+2024.12.27 04:49:03 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:49:03 INFO  time: compiled lab1_scala in 0.92s
+дек. 27, 2024 4:50:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3021
+2024.12.27 04:50:07 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:50:07 INFO  time: compiled lab1_scala in 0.8s
+2024.12.27 04:50:17 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:50:17 INFO  time: compiled lab1_scala in 0.21s
+2024.12.27 04:50:24 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:50:24 INFO  time: compiled lab1_scala in 0.47s
+2024.12.27 04:56:07 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:56:10 INFO  time: compiled lab1_scala in 3.3s
+2024.12.27 04:56:16 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 04:56:18 INFO  time: compiled lab1_scala in 1.2s
+2024.12.27 04:56:24 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:56:24 INFO  time: compiled lab1_scala in 0.42s
+2024.12.27 04:56:35 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:56:35 INFO  time: compiled lab1_scala in 0.48s
+Exception in thread "pool-14-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+дек. 27, 2024 4:56:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3262
+2024.12.27 04:56:37 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:56:37 INFO  time: compiled lab1_scala in 0.4s
+2024.12.27 04:57:03 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:57:03 INFO  time: compiled lab1_scala in 0.45s
+2024.12.27 04:57:13 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:57:13 INFO  time: compiled lab1_scala in 0.4s
+2024.12.27 04:58:05 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:58:05 INFO  time: compiled lab1_scala in 0.4s
+2024.12.27 04:58:09 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 04:58:10 INFO  time: compiled lab1_scala in 1.3s
+2024.12.27 05:00:34 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 05:00:37 INFO  time: compiled lab1_scala in 2.66s
+2024.12.27 05:01:06 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 05:01:06 INFO  time: compiled lab1_scala in 0.7s
+дек. 27, 2024 5:02:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4159
+2024.12.27 05:02:48 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 05:02:48 INFO  time: compiled lab1_scala in 0.82s
+2024.12.27 05:02:50 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 05:02:51 INFO  time: compiled lab1_scala in 1.04s
+2024.12.27 05:02:59 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 05:02:59 INFO  time: compiled lab1_scala in 0.55s
+2024.12.27 05:05:38 INFO  compiling lab1_scala (1 scala source)
+2024.12.27 05:05:40 INFO  time: compiled lab1_scala in 2.17s
+2024.12.27 11:42:32 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 11:42:34 INFO  time: compiled lab1_scala in 1.8s
+2024.12.27 11:42:41 INFO  compiling lab1_scala (2 scala sources)
+2024.12.27 11:42:42 WARN  Invalid text document uri received from build server: file:///C:/files/lab1_scala/src/main/scala/Main.scala
+2024.12.27 11:42:42 INFO  time: compiled lab1_scala in 1.06s
+дек. 27, 2024 11:43:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4681
+дек. 27, 2024 11:43:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4736
+дек. 27, 2024 11:44:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5110
+2024.12.27 11:44:49 INFO  compiling lab1_scala (1 scala source)
+дек. 27, 2024 11:44:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.27 11:44:52 INFO  time: compiled lab1_scala in 2.4s
