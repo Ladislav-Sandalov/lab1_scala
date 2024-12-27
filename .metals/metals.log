@@ -252,3 +252,29 @@ WARNING: Unmatched cancel notification for request id 6754
 INFO: Unsupported notification method: $/setTrace
 2024.11.12 08:08:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
 2024.11.12 08:08:55 INFO  time: indexed workspace in 6.39s
+2024.11.12 08:13:54 INFO  Shutting down server
+2024.11.12 08:13:54 INFO  shutting down Metals
+2024.11.12 08:13:54 INFO  Shut down connection with build server.
+2024.11.12 08:13:54 INFO  Shut down connection with build server.
+2024.11.12 08:13:54 INFO  Exiting server
+2024.11.12 08:15:35 INFO  Started: Metals version 1.4.0 in folders 'C:\files\lab1_scala' for client Visual Studio Code 1.95.2.
+2024.11.12 08:15:36 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.12 08:15:36 INFO  Attempting to connect to the build server...
+2024.11.12 08:15:36 INFO  Found a Bloop server running
+2024.11.12 08:15:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.12 08:15:36 INFO  Attempting to connect to the build server...
+2024.11.12 08:15:36 INFO  Found a Bloop server running
+2024.11.12 08:15:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\project\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.12 08:15:38 INFO  time: Connected to build server in 1.24s
+2024.11.12 08:15:38 INFO  Connected to Build server: Bloop v2.0.3
+2024.11.12 08:15:37 INFO  running doctor check
+2024.11.12 08:15:37 INFO  java targets: lab1_scala, lab1_scala-build, lab1_scala-test
+2024.11.12 08:15:42 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+нояб. 12, 2024 8:15:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.12 08:15:44 INFO  time: indexed workspace in 6.31s
+2024.11.12 08:18:55 INFO  Shutting down server
+2024.11.12 08:18:55 INFO  shutting down Metals
+2024.11.12 08:18:55 INFO  Shut down connection with build server.
+2024.11.12 08:18:55 INFO  Shut down connection with build server.
+2024.11.12 08:18:55 INFO  Exiting server
