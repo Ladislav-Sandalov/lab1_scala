@@ -1,0 +1,4 @@
+[debug] [akka-scala-seed-test] Classpath dependencies List()
+[debug] [akka-scala-seed-test] Dependencies from configurations List(akka-scala-seed)
+[debug] Bloop wrote the configuration of project 'akka-scala-seed-test' to 'C:\files\lab1_scala\akka-scala-seed\.bloop\akka-scala-seed-test.json'
+[success] Generated .bloop\akka-scala-seed-test.json

@@ -623,3 +623,17 @@ WARNING: Unmatched cancel notification for request id 5110
 дек. 27, 2024 11:44:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2024.12.27 11:44:52 INFO  time: compiled lab1_scala in 2.4s
+2024.12.27 11:51:34 ERROR SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024.12.27 11:51:34 ERROR SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024.12.27 11:51:34 ERROR SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024.12.27 11:51:38 INFO  
+2024.12.27 11:51:38 INFO  Template applied in C:\files\lab1_scala\.\akka-scala-seed
+2024.12.27 11:51:38 INFO  
+2024.12.27 11:51:38 INFO  time: ran 'giter8.Giter8' in 4.58s
+дек. 27, 2024 11:51:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.27 12:34:27 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaIntegrall.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 12:34:27 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaIntegrall.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 12:34:27 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaIntegrall.scala. Using presentation compiler with project's scala-library version: 3.5.0
+2024.12.27 12:34:28 INFO  time: code lens generation in 1.15s
+2024.12.27 12:34:29 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaIntegrall.scala. Using presentation compiler with project's scala-library version: 3.5.0

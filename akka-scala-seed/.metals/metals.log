@@ -1,0 +1,150 @@
+2024.12.27 11:51:51 INFO  Started: Metals version 1.4.2 in folders 'C:\files\lab1_scala\akka-scala-seed' for client Visual Studio Code 1.96.2.
+2024.12.27 11:51:55 INFO  running 'C:\Program Files\Java\jdk-22\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\mrfar\AppData\Local\Temp\metals16503494564353475606\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.27 11:51:55 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.7  (this may take some time)...
+2024.12.27 11:52:03 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 22.0.2)
+2024.12.27 11:52:05 INFO  [info] loading settings for project akka-scala-seed-build-build-build from metals.sbt...
+2024.12.27 11:52:05 INFO  [info] loading project definition from C:\files\lab1_scala\akka-scala-seed\project\project\project
+2024.12.27 11:52:09 INFO  [info] loading settings for project akka-scala-seed-build-build from metals.sbt...
+2024.12.27 11:52:09 INFO  [info] loading project definition from C:\files\lab1_scala\akka-scala-seed\project\project
+2024.12.27 11:52:12 INFO  [success] Generated .bloop\akka-scala-seed-build-build.json
+2024.12.27 11:52:12 INFO  [success] Total time: 3 s, completed 27 дек. 2024 г., 11:52:12
+2024.12.27 11:52:13 INFO  [info] loading settings for project akka-scala-seed-build from metals.sbt, plugins.sbt...
+2024.12.27 11:52:13 INFO  [info] loading project definition from C:\files\lab1_scala\akka-scala-seed\project
+2024.12.27 11:52:15 INFO  [success] Generated .bloop\akka-scala-seed-build.json
+2024.12.27 11:52:15 INFO  [success] Total time: 2 s, completed 27 дек. 2024 г., 11:52:15
+2024.12.27 11:52:17 INFO  [info] loading settings for project akka-scala-seed from build.sbt...
+2024.12.27 11:52:17 INFO  [info] set current project to akka-scala-seed (in build file:/C:/files/lab1_scala/akka-scala-seed/)
+2024.12.27 11:52:24 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 11:52:24 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 11:52:25 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 11:52:27 INFO  [success] Generated .bloop\akka-scala-seed.json
+2024.12.27 11:52:27 INFO  [success] Generated .bloop\akka-scala-seed-test.json
+2024.12.27 11:52:27 INFO  [success] Total time: 9 s, completed 27 дек. 2024 г., 11:52:27
+2024.12.27 11:52:27 INFO  time: ran 'sbt bloopInstall' in 31s
+2024.12.27 11:52:27 INFO  Attempting to connect to the build server...
+2024.12.27 11:52:27 INFO  Found a Bloop server running
+2024.12.27 11:52:27 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 11:52:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\akka-scala-seed\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 11:52:28 INFO  Attempting to connect to the build server...
+2024.12.27 11:52:28 INFO  Found a Bloop server running
+2024.12.27 11:52:28 INFO  Attempting to connect to the build server...
+2024.12.27 11:52:28 INFO  Found a Bloop server running
+2024.12.27 11:52:27 INFO  no build target found for C:\files\lab1_scala\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.27 11:52:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\akka-scala-seed\project\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 11:52:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\files\lab1_scala\akka-scala-seed\project\project\.metals\bsp.trace.json or C:\Users\mrfar\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 11:52:29 INFO  time: Connected to build server in 1.81s
+2024.12.27 11:52:29 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.27 11:52:29 INFO  time: Imported build in 0.12s
+2024.12.27 11:52:29 INFO  running doctor check
+2024.12.27 11:52:29 INFO  java targets: akka-scala-seed-test, akka-scala-seed-build-build, akka-scala-seed-build, akka-scala-seed
+2024.12.27 11:52:41 INFO  time: indexed workspace in 12s
+2024.12.27 11:52:41 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 11:52:46 INFO  time: compiled akka-scala-seed in 4.89s
+2024.12.27 11:52:46 INFO  compiling akka-scala-seed-test (1 scala source)
+2024.12.27 11:52:48 INFO  time: compiled akka-scala-seed-test in 1.83s
+дек. 27, 2024 11:57:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 433
+дек. 27, 2024 11:58:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 746
+дек. 27, 2024 11:58:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 785
+2024.12.27 11:58:12 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 11:58:15 INFO  time: compiled akka-scala-seed in 2.56s
+2024.12.27 12:00:25 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:00:25 INFO  time: compiled akka-scala-seed in 0.3s
+2024.12.27 12:00:35 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:00:37 INFO  time: compiled akka-scala-seed in 1.37s
+2024.12.27 12:02:18 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:02:18 INFO  time: compiled akka-scala-seed in 0.19s
+2024.12.27 12:02:20 WARN  Could not find semantic tokens for: file:///C:/files/lab1_scala/akka-scala-seed/src/main/scala/com/example/AkkaSum.scala
+2024.12.27 12:02:22 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:02:22 INFO  time: compiled akka-scala-seed in 0.86s
+2024.12.27 12:02:52 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:02:52 INFO  time: compiled akka-scala-seed in 0.68s
+2024.12.27 12:03:15 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:03:15 INFO  time: compiled akka-scala-seed in 0.74s
+2024.12.27 12:03:52 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:03:52 INFO  time: compiled akka-scala-seed in 0.6s
+2024.12.27 12:06:42 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:06:43 INFO  time: compiled akka-scala-seed in 1.23s
+2024.12.27 12:06:43 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:06:46 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:06:46 INFO  time: compiled akka-scala-seed in 0.73s
+2024.12.27 12:06:47 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:08:19 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:08:20 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:08:21 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:08:21 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:08:22 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:08:22 INFO  time: compiled akka-scala-seed in 0.94s
+2024.12.27 12:08:23 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:08:36 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:08:37 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:08:37 INFO  time: compiled akka-scala-seed in 0.59s
+2024.12.27 12:08:38 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:08:57 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:38 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:43 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:49 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:50 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:52 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:53 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:55 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:57 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:09:59 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:01 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:03 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:04 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:05 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:07 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:07 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:07 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:11 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:12 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:15 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:10:16 INFO  time: compiled akka-scala-seed in 1.09s
+2024.12.27 12:10:16 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:10:58 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:10:58 INFO  time: compiled akka-scala-seed in 0.91s
+2024.12.27 12:16:29 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:16:35 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:16:35 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:16:35 WARN  Could not load snapshot text for C:\files\lab1_scala\akka-scala-seed\src\main\scala\com\example\AkkaSum.scala
+2024.12.27 12:16:36 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:16:38 INFO  time: compiled akka-scala-seed in 1.22s
+2024.12.27 12:18:06 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:18:06 INFO  time: compiled akka-scala-seed in 0.72s
+2024.12.27 12:19:00 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:19:00 INFO  time: compiled akka-scala-seed in 0.78s
+2024.12.27 12:19:48 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:19:48 INFO  time: compiled akka-scala-seed in 0.66s
+2024.12.27 12:21:17 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:21:17 INFO  time: compiled akka-scala-seed in 0.76s
+дек. 27, 2024 12:21:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2546
+2024.12.27 12:21:56 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:21:56 INFO  time: compiled akka-scala-seed in 0.6s
+2024.12.27 12:23:19 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:23:19 INFO  time: compiled akka-scala-seed in 0.48s
+2024.12.27 12:23:36 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:23:36 INFO  time: compiled akka-scala-seed in 0.3s
+2024.12.27 12:24:00 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:24:00 INFO  time: compiled akka-scala-seed in 0.28s
+2024.12.27 12:27:37 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:27:38 INFO  time: compiled akka-scala-seed in 1.13s
+2024.12.27 12:28:03 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:28:03 INFO  time: compiled akka-scala-seed in 0.65s
+дек. 27, 2024 12:29:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3034
+2024.12.27 12:29:56 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:29:56 INFO  time: compiled akka-scala-seed in 0.7s
+дек. 27, 2024 12:32:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3240
+2024.12.27 12:32:39 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.27 12:32:39 INFO  time: compiled akka-scala-seed in 0.62s
+2024.12.27 12:34:54 INFO  Shutting down server
+2024.12.27 12:34:54 INFO  shutting down Metals
+2024.12.27 12:34:54 INFO  Shut down connection with build server.
+2024.12.27 12:34:54 INFO  Shut down connection with build server.
+2024.12.27 12:34:54 INFO  Shut down connection with build server.
+2024.12.27 12:34:54 INFO  Exiting server
